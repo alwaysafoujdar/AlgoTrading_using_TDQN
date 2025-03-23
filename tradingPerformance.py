@@ -1,14 +1,4 @@
-# coding=utf-8
 
-"""
-Goal: Accurately estimating the performance of a trading strategy.
-Authors: Thibaut Théate and Damien Ernst
-Institution: University of Liège
-"""
-
-###############################################################################
-################################### Imports ###################################
-###############################################################################
 
 import numpy as np
 
