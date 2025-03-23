@@ -1,14 +1,4 @@
-# coding=utf-8
 
-"""
-Goal: Generating fictive stock market curves for testing purposes.
-Authors: Thibaut Théate and Damien Ernst
-Institution: University of Liège
-"""
-
-###############################################################################
-################################### Imports ###################################
-###############################################################################
 
 import numpy as np
 import pandas as pd
