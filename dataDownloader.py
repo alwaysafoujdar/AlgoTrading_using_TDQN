@@ -1,15 +1,4 @@
-# coding=utf-8
 
-"""
-Goal: Downloading financial data (related to stock markets) from diverse sources
-      (Alpha Vantage, Yahoo Finance).
-Authors: Thibaut Théate and Damien Ernst
-Institution: University of Liège
-"""
-
-###############################################################################
-################################### Imports ###################################
-###############################################################################
 
 import pandas as pd
 import pandas_datareader as pdr
