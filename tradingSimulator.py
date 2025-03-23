@@ -1,14 +1,4 @@
-# coding=utf-8
 
-"""
-Goal: Implement a trading simulator to simulate and compare trading strategies.
-Authors: Thibaut Théate and Damien Ernst
-Institution: University of Liège
-"""
-
-###############################################################################
-################################### Imports ###################################
-###############################################################################
 
 import os
 import sys
